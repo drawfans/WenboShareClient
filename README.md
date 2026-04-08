@@ -4,3 +4,5 @@ WenboShareClient 是一个本地文件共享系统，支持多用户权限管理
 - **前端**: Vue3.js + Vite (端口 9999)
 - **桌面客户端**: C# WinForms (.NET Framework 4.7.2)
 - **数据库**: SQLite (`database.db`)
+
+![这是图片](微信图片_20260408181354_14_16.png "微信群")
