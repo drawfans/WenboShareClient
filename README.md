@@ -5,4 +5,6 @@ WenboShareClient 是一个本地文件共享系统，支持多用户权限管理
 - **桌面客户端**: C# WinForms (.NET Framework 4.7.2)
 - **数据库**: SQLite (`database.db`)
 
+- 如需进群请加作者微信：yourawen
+
 ![这是图片](微信图片_20260416104657_22_16.png "微信群")
